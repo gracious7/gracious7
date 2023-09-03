@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: Piyush-onGIT
+          user: gracious7
           template: classic
           base: header, activity, community, repositories, metadata
           repositories_forks: yes
