@@ -29,7 +29,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://prince-tripathi.netlify.app">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>India</b> 」
     <br>
@@ -38,23 +38,23 @@
 </p>
 
 <p align="center">
- <a href="https://gracious7.com" target="blank">
+ <a href="https://prince-tripathi.netlify.app" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="gracious7" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://www.linkedin.com/in/prince-tripathi-96920b224" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gracious7"/>
  </a>
  <!-- <a href="https://dev.to/gracious7" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="gracious7" />
  </a> -->
- <a href="https://twitter.com/_gracious7" target="_blank">
+<!--  <a href="https://twitter.com/_gracious7" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/_gracious7" target="_blank">
+ </a> -->
+<!--  <a href="https://instagram.com/_gracious7" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="gracious7" />
- </a> 
- <a href="https://facebook.com/gracious7.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="gracious7"  />
+ </a>  -->
+ <a href="https://drive.google.com/file/d/1a6ilJC2-Z7zPlAfT-zQFi4DgqKQRogps/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-20BEFF?&style=for-the-badge&logo=Resume&logoColor=white" alt="Resume"  />
   </a> 
 </p>
 <br />
@@ -101,12 +101,7 @@
 
 <br/>
 
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=gracious7&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gracious7/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=gracious7&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gracious7/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=gracious7&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gracious7/web-projects)
-[![Prince Tripathi Readme](https://github-readme-stats.vercel.app/api/pin/?username=gracious7&repo=gracious7&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gracious7/gracious7)
-
+## Repos: 
 <p align="left">
   <a href="https://github.com/gracious7?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
